@@ -1199,6 +1199,11 @@ img {
       justify-content: center;
     }
 
+    .na-img {
+      max-width: 150px;
+      margin-left: 20px;
+    }
+
 }
 
 @media screen and (min-width: 768px) {
