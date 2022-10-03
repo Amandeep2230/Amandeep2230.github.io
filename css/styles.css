@@ -1162,6 +1162,10 @@ img {
   .testimonial_description{
     text-align: center;
   }
+
+  .na-img {
+    visibility: hidden;
+  }
 }
 
 /* For medium devices */
@@ -1194,9 +1198,6 @@ img {
       justify-content: center;
     }
 
-    .na-img {
-      visibility: hidden;
-    }
 }
 
 @media screen and (min-width: 768px) {
@@ -1386,10 +1387,7 @@ img {
     .footer_links{
       margin-right: var(--mb-1);
     }
-
-    .na-img {
-      visibility: hidden;
-    }
+    
     
 }
 
