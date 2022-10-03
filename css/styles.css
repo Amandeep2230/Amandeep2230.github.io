@@ -1193,6 +1193,10 @@ img {
       grid-template-columns: .6fr;
       justify-content: center;
     }
+
+    .na-img {
+      visibility: hidden;
+    }
 }
 
 @media screen and (min-width: 768px) {
@@ -1381,6 +1385,10 @@ img {
 
     .footer_links{
       margin-right: var(--mb-1);
+    }
+
+    .na-img {
+      visibility: hidden;
     }
     
 }
