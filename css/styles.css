@@ -322,7 +322,7 @@ img {
 }
 
 .home_subtitle {
-  font-size: var(--h3-font-size);
+  font-size: 0.78rem;
   color: var(--text-color);
   font-weight: var(--font-medium);
   margin-bottom: var(--mb-0-75);
