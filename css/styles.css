@@ -322,7 +322,7 @@ img {
 }
 
 .home_subtitle {
-  font-size: 0.78rem;
+  font-size: 1 rem;
   color: var(--text-color);
   font-weight: var(--font-medium);
   margin-bottom: var(--mb-0-75);
@@ -565,6 +565,14 @@ img {
 
 .skills_java2 {
   width: 80%;
+}
+
+.skills_ML {
+  width: 65%;
+}
+
+.skills_ML2 {
+  width: 50%;
 }
 
 .skills_python {
