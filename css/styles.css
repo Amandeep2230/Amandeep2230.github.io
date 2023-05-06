@@ -318,7 +318,7 @@ img {
 }
 
 .home_title {
-  font-size: var(--big-font-size);
+  font-size: var(--h1-font-size);
 }
 
 .home_subtitle {
